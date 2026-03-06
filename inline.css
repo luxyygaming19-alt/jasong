@@ -1,0 +1,9 @@
+.border{
+    border: 3px solid #334455;
+    width : 600px;
+    height : 750px;
+    margin : 20px auto;
+    padding : 25px;
+    background-color : #bbbbbb;
+    text-align : center;
+}
